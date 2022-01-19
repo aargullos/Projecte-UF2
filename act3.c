@@ -17,7 +17,7 @@ int bin(){
 
 	int aux = 1, x = 1,bin = 0, num;
 	
-    printf("Introdueix un nombre : ");
+    printf("Introdueix un nombre: ");
     
     scanf("%d",&num);
 	

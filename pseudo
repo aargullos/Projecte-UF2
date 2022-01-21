@@ -1,0 +1,30 @@
+function
+
+	var
+		INTEGER x, i;
+
+	endvar
+
+	x = x + i;
+
+	i = x - i;
+
+	x = x - i;
+ 
+	WRITE "Aquest es els valors intercambiats x i";
+
+endfunction
+
+function
+
+	WRITE "Introdueix un valor";
+		
+	READ x;
+
+endfunction
+
+function
+	WRITE "Introdueix un altre valor";
+
+	READ i;
+endfunction
